@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 const width = 8;
 const candyColors = ["blue", "yellow", "green", "purple", "red", "orange"];
 
-const App = () => {
+const Board = () => {
   const [currentColorArrangement, setCurrentColorArrangement] = useState([]);
 
   const createBoard = () => {
@@ -33,4 +33,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Board;
