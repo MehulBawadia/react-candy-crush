@@ -25,3 +25,13 @@ body {
   text-align: center;
   font-size: 1.25rem;
 }
+
+.links a {
+  text-decoration: none;
+  color: blue;
+}
+
+.links a:hover,
+.links a:focus {
+  color: orangered;
+}

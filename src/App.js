@@ -7,7 +7,7 @@ const App = () => {
       <Board />
 
       <div className="links">
-        <a href="https://MehulBawadia/react-candy-crush" target="_blank">
+        <a href="https://github.com/MehulBawadia/react-candy-crush">
           Check the source code
         </a>
       </div>
